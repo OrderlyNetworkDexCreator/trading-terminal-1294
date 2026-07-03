@@ -16,7 +16,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_WALLETCONNECT_PROJECT_ID": "6847fb59dbee82ed7579a5c79ffeafe7",
   "VITE_APP_NAME": "Trading Terminal",
   "VITE_APP_DESCRIPTION": "Orderly Trading Application",
-  "VITE_HAS_PRIMARY_LOGO": "false",
+  "VITE_HAS_PRIMARY_LOGO": "true",
   "VITE_HAS_SECONDARY_LOGO": "false",
   "VITE_ENABLED_MENUS": "Trading,Portfolio,Markets,Leaderboard,Vaults,Campaigns",
   "VITE_CUSTOM_MENUS": "Create your own DEX, https://dex.orderly.network/dex?distributor_code=TRADINGTER",
